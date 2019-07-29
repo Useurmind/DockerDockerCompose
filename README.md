@@ -1,2 +1,3 @@
-# DockerGitlabPowershell
-A container that can use dind on gitlab with powershell installed.
+# DockerDockerCompose
+
+A container that can use dind on gitlab with docker compose installed.
